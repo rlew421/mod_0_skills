@@ -1,0 +1,13 @@
+Biology
+- Attributes
+  - number_of_dissections (integer)
+  - weight_of_group_experiment (float and hash/object; ex: {"Group 1": 2.4, "Group 2": 3.1})
+  - student_name (string)
+  - class_roster (array of names in string form)
+  - class_grade_average (float)
+  - is_class_advanced_placement (boolean)
+- Methods
+  - alphabetize_name (lists elements of array student_name in alphabetical order)
+  - curve_average (adds a curve to the class_grade_average)
+  - increase_number (increases the number_of_dissections by 1)
+  - take_attendance (iterates through elements in the class_roster array. for each element, checks whether name is present or absent and marks either present or absent accordingly)
