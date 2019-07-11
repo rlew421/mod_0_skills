@@ -1,0 +1,43 @@
+1. Go through online application process
+- 1.1 Type turing.io into address bar and hit enter
+- 1.2 Click on button called Programs at the top menu bar
+- 1.3 Click on Apply Now button listed under either BEE or FEE
+- 1.4 Watch How to Apply video
+- 1.5 Click Log in with Facebook or click log in Github
+- 1.6 Complete online application
+  - 1.6.1 Submit resume or answer work history questions
+  - 1.6.2 Complete logic test
+  - 1.6.3 Click submit
+- 1.7 Complete interview process
+  - 1.7.1 Schedule time slot for interview
+  - 1.7.2 Show up to interview
+  - 1.7.3 Complete logic challenge during interview
+  - 1.7.4 Answer behavioral questions and talk about work history
+  - 1.7.5 Await admissions decision. If yes, proceed to step 2.
+2. Enroll in Turing
+- 2.1 Sign enrollment contract
+  - 2.1.1 Read over contract
+  - 2.1.2 Sign
+  - 2.1.3 Send back to Erin
+- 2.2 Talk with student resources coordinator
+  - 2.2.1 Schedule time to talk to Darren through online portal
+  - 2.2.2 Call Darren
+- 2.3 Submit first payment 30 days before start date
+  - 2.3.1 Decide on method of payment
+  - 2.3.2 Pay by check or credit card
+- 2.4 Enroll in Mod 0 sessions
+3. Complete Mod 0
+- 3.1 Download the Mod 0 session dates to your Google calendar
+- 3.2 Attend each session
+- 3.3 Complete homework for each session
+- 3.4 Evaluate personal progress
+  - 3.4.1 Write down key takeaways and questions at the end of each session
+  - 3.4.2 Ask questions about areas of confusion, either to fellow classmates or instructors
+- 3.5 Complete Mod 0 technical assessment
+  - 3.5.1 Fork the Mod 0 technical assessment on Github
+  - 3.5.2 Complete each section of the assessment
+    - 3.5.2.1 Complete items on Part I
+    - 3.5.2.2 Complete items on Part II
+    - 3.5.2.3 Complete items on Part III
+    - 2.5.2.4 Click Submit
+- 3.6 Complete Mod 0 Capstone
