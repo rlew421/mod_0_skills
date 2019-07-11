@@ -1,0 +1,17 @@
+Biology II AP
+- Attributes
+  - number_of_dissections (4)
+  - weight_of_group_experiment ({"Group 1": 2.4, "Group 2": 3.1})
+  - student_name ("John," "Rachel", "Andrew")
+  - class_roster (["John", "Andrew", "Rachel"])
+  - class_grade_average (85.4)
+  - is_class_advanced_placement (true)
+- Results of Methods Called
+  - alphabetize_name (lists elements of array student_name in alphabetical order)
+    - ["Andrew", "John", "Rachel"]
+  - curve_average (adds a curve to the class_grade_average)
+    - 92.1
+  - increase_number (increases the number_of_dissections by 1)
+    - 5
+  - take_attendance (iterates through elements in the class_roster array. for each element, checks whether name is present or absent and marks either present or absent accordingly)
+    - [present, present, absent]
