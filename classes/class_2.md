@@ -1,0 +1,13 @@
+Algebra
+- Attributes
+  - class_roster (array of names in string form)
+  - class_grade_average (float)
+  - is_class_advanced_placement (boolean)
+  - is_teacher_substitute (boolean)
+  - class_period (time in string form)
+  - classroom_location (room number in string form)
+- Methods
+  - curve_average (adds a curve to the class_grade_average)
+  - take_attendance (iterates through elements in the class_roster array. for each element, checks whether name is present or absent and marks either present or absent accordingly)
+  - move_room (changes classroom_location and assigns a new room number)
+  - change_period (changes class_period and assigns a new time slot)
